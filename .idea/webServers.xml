@@ -1,0 +1,15 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<project version="4">
+  <component name="WebServers">
+    <option name="servers">
+      <webServer id="df782243-c45b-4e51-8c87-13aa09f5266a" name="VITA (project level)" url="http://wangdl.cse.tamu.edu">
+        <fileTransfer host="wangdl.cse.tamu.edu" port="22" rootFolder="/home/wuzhenyu_sjtu" accessType="SFTP">
+          <advancedOptions>
+            <advancedOptions dataProtectionLevel="Private" />
+          </advancedOptions>
+          <option name="port" value="22" />
+        </fileTransfer>
+      </webServer>
+    </option>
+  </component>
+</project>
